@@ -8,5 +8,10 @@ Youtube Guide : https://www.youtube.com/watch?v=pLZ79aKWeoI
 Steps (Using Inertia JS)
 1. composer create-project laravel/laravel POS-Rice-Application-ReactJS
 2. composer require laravel/breeze --dev
-3. php artisan breeze:install 
+3. php artisan breeze:install react
 4. composer require inertiajs/inertia-laravel
+
+
+
+
+
