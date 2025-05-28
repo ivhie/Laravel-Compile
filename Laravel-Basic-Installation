@@ -1,0 +1,2 @@
+How to install laravel with React JS
+1. composer create-project laravel/laravel POS-Rice-Application-ReactJS
